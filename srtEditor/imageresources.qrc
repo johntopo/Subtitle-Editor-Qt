@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>assets/images/colorpicker.png</file>
+        <file>assets/images/edit-copy.png</file>
+        <file>assets/images/edit-cut.png</file>
+        <file>assets/images/edit-paste.png</file>
+        <file>assets/images/format-text-bold.png</file>
+        <file>assets/images/format-text-italic.png</file>
+        <file>assets/images/format-text-underline.png</file>
+    </qresource>
+</RCC>
