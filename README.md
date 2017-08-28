@@ -1,5 +1,5 @@
 # Subtitle-Editor-Qt
-Simple subs editor in Qt(support only srt). Also  user can load media for testing subs. 
+Subtitle editor in Qt(support only srt). User can load media for testing-editing subs. 
 
 
 ![sample image](sample.png "Subtitle Editor Interface")
